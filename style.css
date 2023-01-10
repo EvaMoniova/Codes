@@ -1,0 +1,18 @@
+body {
+  background: black
+}
+
+p {
+  position: absolute;
+  top: 50%;
+  font-size: 100px;
+  margin: 0;
+}
+
+#p1 {
+  left: 30%;
+}
+
+#p2 {
+  right: 30%;
+}
